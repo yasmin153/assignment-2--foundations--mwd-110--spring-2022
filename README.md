@@ -18,8 +18,8 @@ This assignment extends on your first assignment by applying basic principles of
 
 ## Preflight
 1. You’ll need to install _editorconfig_ and _Stylelint_ for this project, and Node is required to do so. Download and [install Node](https://nodejs.org/en/).
-2. With Node installed, launch your command line interface, or CLI, and install _Stylelint_: ` npm install stylelint`
-3. Again, from your command line, install _editorconfig_: `npm install editorconfig`
+2. With Node installed, launch your command line interface, or CLI, and install _Stylelint_: `sudo npm i -g stylelint`
+3. Again, from your command line, install _editorconfig_: `sudo npm i -g editorconfig`
 4. Recall that you must have a validator for HTML in place. If Atom’s W3C validator is giving you problems, consider using VS Code with the [HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint) extension.
 5. And, finally, make sure you address the feedback from the first assignment. For example, if files were in the wrong place or weren’t correctly named; if images weren’t the right size; if code was sloppy and/or invalid; and, if the axe browser plugin threw errors.
 
