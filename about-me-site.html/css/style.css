@@ -1,0 +1,48 @@
+body {
+  background: orange;
+  font-family: 'Source Serif Pro', serif;
+}
+
+p:nth-child(1) {
+  font-weight: var(--extra-light);
+}
+
+p:nth-child(1) {
+  font-weight: var(--light);
+}
+
+p:nth-child(1) {
+  font-weight: var(--regular);
+}
+
+p:nth-child(1) {
+  font-weight: var(--semi-bold);
+}
+
+p:nth-child(1) {
+  font-weight: var(--bold);
+}
+
+p:nth-child(1) {
+  font-weight: var(--black);
+}
+p {
+  color: black;
+  margin-right: 600px;
+}
+h1 {
+  font-weight: bold;
+}
+
+.head-img{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 600px;
+}
+
+.img{
+ display: block;
+ margin-right: auto;
+ width: 600px;
+}
