@@ -3,29 +3,6 @@ body {
   font-family: 'Source Serif Pro', serif;
 }
 
-p:nth-child(1) {
-  font-weight: var(--extra-light);
-}
-
-p:nth-child(1) {
-  font-weight: var(--light);
-}
-
-p:nth-child(1) {
-  font-weight: var(--regular);
-}
-
-p:nth-child(1) {
-  font-weight: var(--semi-bold);
-}
-
-p:nth-child(1) {
-  font-weight: var(--bold);
-}
-
-p:nth-child(1) {
-  font-weight: var(--black);
-}
 p {
   color: black;
   margin-right: 600px;
