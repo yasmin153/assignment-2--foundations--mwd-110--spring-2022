@@ -3,10 +3,20 @@ body {
   font-family: 'Source Serif Pro', serif;
 }
 
+p:nth-child(1) {
+  font-style: italic;
+}
+
+p:nth-child(2) {
+  font-family: 'BhuTuka Expanded One', cursive;
+  font-style: italic;
+}
+
 p {
   color: black;
   margin-right: 600px;
 }
+
 h1 {
   font-weight: bold;
 }
