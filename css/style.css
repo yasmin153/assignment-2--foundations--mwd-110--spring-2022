@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color: white;
+}
+
+li {
+    margin-bottom: .8rem;
+    text-align: center;
+    font-size: 16px;
+    color:white;
+    position:relative; bottom: -20px;
+}
+
+a{
+    color:white;
+    font-size: 16px;  
+}
+
+h1{
+    text-align: center;
+    color:white;
+}
+
+p{
+    display:block;
+    color: white;
+    font-size: 16px;
+    font-style: normal;
+    text-align: center;
+    position: relative; top:-250px;
+}
