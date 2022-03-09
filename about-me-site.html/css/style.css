@@ -1,15 +1,17 @@
 body {
   background: orange;
-  font-family: 'Source Serif Pro', serif;
 }
 
-p:nth-child(1) {
-  font-style: italic;
+header {
+  font-family: 'Roboto Slab',fantasy;
 }
 
-p:nth-child(2) {
-  font-family: 'BhuTuka Expanded One', cursive;
-  font-style: italic;
+nav {
+  font-family: sans-serif;
+}
+
+main {
+  font-family: 'Work Sans', cursive;
 }
 
 p {
