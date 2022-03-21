@@ -2,11 +2,11 @@
     border: 3px solid transparent;
     margin: 0;
     padding: 0;
-    background-color: black;
+    background-color: #CF655B;
 }
 
 html{
-    border-color: black;
+    border-color: #CF655B;
 }
 
 .img-iemin{
@@ -17,7 +17,7 @@ html{
     height: 350px;
     position: relative; top:50px;
     border: 3px;
-    border-color: solid white;
+    border-color: #ABF4FF;
 }
 
 .img-vimin{
@@ -28,7 +28,7 @@ html{
     height: 350px;
     position: relative; top:-310px;
     border: 3px;
-    border-color: solid white;
+    border-color: #ABF4FF;
 }
 
 .img-covie{
@@ -39,5 +39,5 @@ html{
     height: 350px;
     position: relative; top:50px;
     border: 3px;
-    border-color: solid white;
+    border-color: #ABF4FF;
 }

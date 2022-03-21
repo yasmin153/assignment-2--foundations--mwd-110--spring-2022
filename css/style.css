@@ -1,32 +1,35 @@
 h1{
     text-align: center;
-    color: white;
+    color:#ABF4FF;
 }
 
 li {
     margin-bottom: .8rem;
     text-align: center;
     font-size: 16px;
-    color:white;
+    font-family: "Times New Roman", Times, serif;
+    color:#ABF4FF;
     position:relative; bottom: -20px;
 }
 
 a{
     color:white;
     font-size: 16px;
+    font-family: "Times New Roman", Times, serif;
     text-align: left;
+    
 }
 
 h1{
     text-align: center;
-    color:white;
+    color:#ABF4FF;
 }
 
 p{
     display:block;
-    color: white;
+    color:#ABF4FF;
     font-size: 16px;
-    font-style: normal;
+    font-family: "Times New Roman", Times, serif;
     text-align: center;
     position: relative; top:-250px;
 }
