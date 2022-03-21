@@ -1,17 +1,23 @@
 body {
-  background: orange;
+  background: #EB8818;
+  margin: auto;
 }
 
 header {
   font-family: 'Roboto Slab',fantasy;
+  background: black;
+  color: #D6D3BF;
+  margin-top: 0px;
 }
 
 nav {
   font-family: sans-serif;
+  margin-left: 10px;
 }
 
 main {
   font-family: 'Work Sans', cursive;
+  margin: 35px;
 }
 
 p {
