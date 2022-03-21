@@ -2,11 +2,11 @@
     border: 3px solid transparent;
     margin: 0;
     padding: 0;
-    background-color: #CF655B;
+    background-color: #9C3635;
 }
 
 html{
-    border-color: #CF655B;
+    border-color: #9C3635;
 }
 
 .img-iemin{
@@ -17,7 +17,7 @@ html{
     height: 350px;
     position: relative; top:50px;
     border: 3px;
-    border-color: #ABF4FF;
+    border-color: #9C3635;
 }
 
 .img-vimin{

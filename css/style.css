@@ -1,35 +1,36 @@
 h1{
     text-align: center;
-    color:#ABF4FF;
+    color:#b0faf6; 
 }
 
-li {
+li{
     margin-bottom: .8rem;
     text-align: center;
     font-size: 16px;
     font-family: "Times New Roman", Times, serif;
-    color:#ABF4FF;
+    color:#b0faf6;
     position:relative; bottom: -20px;
 }
 
+
 a{
-    color:white;
+    color:#90fff6;
     font-size: 16px;
-    font-family: "Times New Roman", Times, serif;
-    text-align: left;
-    
+    font-family: "Times New Roman", Times, serif; 
 }
 
 h1{
     text-align: center;
-    color:#ABF4FF;
+    color:#b0faf6;
+    font-family: 'BhuTuka Expanded One', cursive;
 }
 
 p{
     display:block;
-    color:#ABF4FF;
+    color:#b0faf6;
     font-size: 16px;
     font-family: "Times New Roman", Times, serif;
     text-align: center;
     position: relative; top:-250px;
 }
+
