@@ -13,6 +13,13 @@ h1 {
   color: #85fff6;
 }
 
+:root {
+  border: 3px solid transparent;
+  margin: 0;
+  padding: 0;
+  background-color: #702626;
+}
+
 li {
   margin-bottom: .8rem;
   text-align: center;
@@ -47,4 +54,44 @@ p {
 
 .bar {
   background-color: #000;
+}
+
+html {
+  border-color: #702626;
+}
+
+.img-iemin {
+  display: block;
+  margin-left: 800px;
+  margin-right: 290px;
+  width: 300px;
+  height: 350px;
+  position: relative;
+  top: 50px;
+  border: 3px;
+  border-color: #85fff6;
+}
+
+.img-vimin {
+  display: block;
+  margin-left: 290px;
+  margin-right: 290px;
+  width: 300px;
+  height: 350px;
+  position: relative;
+  top: -310px;
+  border: 3px;
+  border-color: #85fff6;
+}
+
+.img-covie {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 350px;
+  position: relative;
+  top: 50px;
+  border: 3px;
+  border-color: #85fff6;
 }
