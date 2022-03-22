@@ -10,14 +10,14 @@ nav ul li {
 
 h1 {
   text-align: center;
-  color: #85fff6;
+  color: #75f2ff;
 }
 
 :root {
   border: 3px solid transparent;
   margin: 0;
   padding: 0;
-  background-color: #702626;
+  background-color: #8a004e;
 }
 
 li {
@@ -25,12 +25,12 @@ li {
   text-align: center;
   font-size: 16px;
   font-family: 'Times New Roman', Times, serif;
-  color: #85fff6;
+  color: #75f2ff;
   bottom: -20px;
 }
 
 a {
-  color: #85fff6;
+  color: #75f2ff;
   font-size: 16px;
   font-family: 'Times New Roman', Times, serif;
   border-radius: 4px;
@@ -39,13 +39,13 @@ a {
 
 h1 {
   text-align: center;
-  color: #85fff6;
+  color: #75f2ff;
   font-family: 'BhuTuka Expanded One', cursive;
 }
 
 p {
   display: block;
-  color: #85fff6;
+  color: #75f2ff;
   font-size: 16px;
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
@@ -57,7 +57,7 @@ p {
 }
 
 html {
-  border-color: #702626;
+  border-color: #8a004e;
 }
 
 .img-iemin {
@@ -69,7 +69,7 @@ html {
   position: relative;
   top: 50px;
   border: 3px;
-  border-color: #85fff6;
+  border-color: #75f2ff;
 }
 
 .img-vimin {
@@ -81,7 +81,7 @@ html {
   position: relative;
   top: -310px;
   border: 3px;
-  border-color: #85fff6;
+  border-color: #75f2ff;
 }
 
 .img-covie {
@@ -93,5 +93,5 @@ html {
   position: relative;
   top: 50px;
   border: 3px;
-  border-color: #85fff6;
+  border-color: #75f2ff;
 }
