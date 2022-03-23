@@ -1,7 +1,14 @@
+:root {
+  border: 3px solid transparent;
+  margin: 0;
+  padding: 0;
+  background-color: #8a004e;
+}
+
 nav ul {
   text-align: center;
-  position: fixed;
   padding-top: 1px;
+  position: fixed;
 }
 
 nav ul li {
@@ -11,13 +18,6 @@ nav ul li {
 h1 {
   text-align: center;
   color: #75f2ff;
-}
-
-:root {
-  border: 3px solid transparent;
-  margin: 0;
-  padding: 0;
-  background-color: #8a004e;
 }
 
 li {
@@ -54,44 +54,45 @@ p {
 
 .bar {
   background-color: #000;
+  padding: 2px;
 }
 
 html {
   border-color: #8a004e;
 }
 
-.img-iemin {
-  display: block;
-  margin-left: 800px;
-  margin-right: 290px;
-  width: 300px;
-  height: 350px;
-  position: relative;
-  top: 50px;
-  border: 3px;
-  border-color: #75f2ff;
-}
-
 .img-vimin {
+  position: relative;
+  top: -310px;
   display: block;
   margin-left: 290px;
   margin-right: 290px;
   width: 300px;
   height: 350px;
-  position: relative;
-  top: -310px;
   border: 3px;
   border-color: #75f2ff;
 }
 
-.img-covie {
+.img-iemin {
+  position: relative;
+  top: 50px;
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 300px;
   height: 350px;
+  border: 3px;
+  border-color: #75f2ff;
+}
+
+.img-covie {
   position: relative;
   top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 350px;
   border: 3px;
   border-color: #75f2ff;
 }
