@@ -4,9 +4,9 @@ body {
 }
 
 header {
-  font-family: 'Roboto Slab',fantasy;
   padding-top: 1px;
   padding-left: 10px;
+  padding-bottom: 5px;
   background: black;
   color: #D6D3BF;
 }
@@ -15,6 +15,7 @@ nav {
   font-family: sans-serif;
   padding-top: 10px;
   padding-left: 10px;
+  padding-bottom: 10px;
   background-color: #D6D3BF;
   /*position: fixed;
   top: 0px;
@@ -23,16 +24,17 @@ nav {
 }
 
 main {
-  font-family: 'Work Sans', cursive;
   margin: 35px;
 }
 
 p {
+  font-family: 'Work Sans', cursive;
   color: black;
   margin-right: 600px;
 }
 
-h1 {
+h1, h2, h3 {
+  font-family: 'Roboto Slab',fantasy;
   font-weight: bold;
 }
 
