@@ -55,6 +55,7 @@ p {
 .bar {
   background-color: #000;
   padding: 2px;
+  width: auto;
 }
 
 html {
@@ -65,8 +66,8 @@ html {
   position: relative;
   top: -310px;
   display: block;
-  margin-left: 290px;
-  margin-right: 290px;
+  margin-left: 300px;
+  margin-right: 350px;
   width: 300px;
   height: 350px;
   border: 3px;
@@ -77,8 +78,8 @@ html {
   position: relative;
   top: 50px;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 800px;
+  margin-right: 300px;
   width: 300px;
   height: 350px;
   border: 3px;
@@ -95,4 +96,15 @@ html {
   height: 350px;
   border: 3px;
   border-color: #75f2ff;
+}
+
+body{
+  position: absolute;
+  background-image: url(../img/space.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  margin: 0;
+  padding: 0;
 }
