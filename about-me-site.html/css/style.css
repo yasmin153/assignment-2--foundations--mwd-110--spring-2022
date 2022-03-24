@@ -16,7 +16,7 @@ nav {
   padding-top: 10px;
   padding-left: 10px;
   padding-bottom: 10px;
-  background-color: #D6D3BF;
+  background: #D6D3BF;
   /*position: fixed;
   top: 0px;
   left: 0px;
@@ -33,10 +33,18 @@ p {
   margin-right: 600px;
 }
 
+a {
+  color: black;
+}
+
 h1, h2, h3 {
   font-family: 'Roboto Slab',fantasy;
   font-weight: bold;
 }
+
+/*.body-img {
+  position: absolute;
+}*/
 
 .head-img{
  display: block;
