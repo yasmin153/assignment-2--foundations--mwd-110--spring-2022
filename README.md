@@ -28,9 +28,9 @@ This assignment extends on your first assignment by applying basic principles of
 ## The Rules
 
 /* You may **not** use any third-party libraries for this project. **All the code you include _must_ be your own.**
-/* Create a style sheet called `style.css` and place it in the included `css` folder. If you use CSS variables, place them in `variables.css`, which also goes in the `css` folder. **No embedded or inline CSS is allowed.**
+* Create a style sheet called `style.css` and place it in the included `css` folder. If you use CSS variables, place them in `variables.css`, which also goes in the `css` folder. **No embedded or inline CSS is allowed.**
 /* Style the site-wide navigation of your assignment as a row of links, not a column.
-* Employ two colors — neither of which can be a neutral — for backgrounds, text, or accents, such as borders, bullets, etc. See [Adobe Color](https://color.adobe.com/create/color-wheel) for ideas, and take special note of its [Accessibility Tools](https://color.adobe.com/create/color-contrast-analyzer).
+/* Employ two colors — neither of which can be a neutral — for backgrounds, text, or accents, such as borders, bullets, etc. See [Adobe Color](https://color.adobe.com/create/color-wheel) for ideas, and take special note of its [Accessibility Tools](https://color.adobe.com/create/color-contrast-analyzer).
 /* Reassign the default image you used in assignment 1 from `index.html` to `about.html`.
 * Add a Creative Commons-licensed image as a hero to the `index.html` page.
 /* Any images you use must be placed in the enclosed `img` folder and **cannot be larger than 1MB**.
