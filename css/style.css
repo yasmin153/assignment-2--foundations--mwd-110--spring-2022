@@ -50,6 +50,8 @@ h1 {
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
   margin-top: 279px;
+  background-color: #1a3c29;
+  padding: 10px;
 }
 
 .about {
@@ -83,6 +85,7 @@ html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
   height: 100%;
   margin: 0;
   padding: 0;
