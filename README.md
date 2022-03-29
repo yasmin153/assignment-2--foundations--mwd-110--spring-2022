@@ -42,7 +42,7 @@ This assignment extends on your first assignment by applying basic principles of
 ---
 
 ## Due Date
-⏰ **Thursday, 24 March 2021, at 10:00 AM. 🚫 _No late work will be accepted._**
+⏰ **Thursday, 29 March 2021, at 10:00 AM. 🚫 _No late work will be accepted._**
 
 ---
 
