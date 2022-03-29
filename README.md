@@ -27,17 +27,17 @@ This assignment extends on your first assignment by applying basic principles of
 
 ## The Rules
 
-/* You may **not** use any third-party libraries for this project. **All the code you include _must_ be your own.**
+* You may **not** use any third-party libraries for this project. **All the code you include _must_ be your own.**
 * Create a style sheet called `style.css` and place it in the included `css` folder. If you use CSS variables, place them in `variables.css`, which also goes in the `css` folder. **No embedded or inline CSS is allowed.**
-/* Style the site-wide navigation of your assignment as a row of links, not a column.
-/* Employ two colors — neither of which can be a neutral — for backgrounds, text, or accents, such as borders, bullets, etc. See [Adobe Color](https://color.adobe.com/create/color-wheel) for ideas, and take special note of its [Accessibility Tools](https://color.adobe.com/create/color-contrast-analyzer).
-/* Reassign the default image you used in assignment 1 from `index.html` to `about.html`.
+* Style the site-wide navigation of your assignment as a row of links, not a column.
+* Employ two colors — neither of which can be a neutral — for backgrounds, text, or accents, such as borders, bullets, etc. See [Adobe Color](https://color.adobe.com/create/color-wheel) for ideas, and take special note of its [Accessibility Tools](https://color.adobe.com/create/color-contrast-analyzer).
+* Reassign the default image you used in assignment 1 from `index.html` to `about.html`.
 * Add a Creative Commons-licensed image as a hero to the `index.html` page.
-/* Any images you use must be placed in the enclosed `img` folder and **cannot be larger than 1MB**.
-/* Employ two different typefaces from Google Fonts into your assignment: one for headings and one for reading text.
+* Any images you use must be placed in the enclosed `img` folder and **cannot be larger than 1MB**.
+* Employ two different typefaces from Google Fonts into your assignment: one for headings and one for reading text.
 * Your HTML must be valid. You can always validate your work at [http://validator.w3.org/#validate_by_input](http://validator.w3.org/#validate_by_input).
 * Your CSS must also be valid, per _Stylelint_ rules, included in the scaffold of this project.
-/* Folders and files must use lowercase, combined with kebab case. For example, `do-this` or `do-this.html`. Further, no spaces in folder or file names (`not this`); no camel case (`notThis`); and, no snake case (`not_this`).
+* Folders and files must use lowercase, combined with kebab case. For example, `do-this` or `do-this.html`. Further, no spaces in folder or file names (`not this`); no camel case (`notThis`); and, no snake case (`not_this`).
 
 ---
 
